@@ -2,7 +2,7 @@
 
 **Proyecto Integrador de Regresión – Caso 1**  
 **Asignatura:** Estadística Aplicada  
-**Universidad de Santiago de Chile – Departamento de Ingeniería Industrial  
+Universidad de Santiago de Chile – Departamento de Ingeniería Industrial  
 **Profesor:** Luis Rojo González
 
 **Integrantes:**
